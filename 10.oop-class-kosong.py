@@ -1,0 +1,2 @@
+class Skuter:
+    pass
